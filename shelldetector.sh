@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (C) 2026 sigithdteam-lab
+# GNU General Public License v3.0
 # =============================================================================
 # WebShell Detector Pro v2.0 (Upgraded with sgtcop.py patterns)
 # Advanced webshell detection with logging only (no deletion)
